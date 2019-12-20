@@ -1,0 +1,7 @@
+C:\Users\Andrii.Ryzhyi\source\repos\DelegatesAndLambdas\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+C:\Users\Andrii.Ryzhyi\source\repos\DelegatesAndLambdas\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+C:\Users\Andrii.Ryzhyi\source\repos\DelegatesAndLambdas\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+C:\Users\Andrii.Ryzhyi\source\repos\DelegatesAndLambdas\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csprojAssemblyReference.cache
+C:\Users\Andrii.Ryzhyi\source\repos\DelegatesAndLambdas\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\Andrii.Ryzhyi\source\repos\DelegatesAndLambdas\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+C:\Users\Andrii.Ryzhyi\source\repos\DelegatesAndLambdas\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
